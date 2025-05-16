@@ -1,5 +1,8 @@
 # JS-Loopback Diagnostic Console
 
+![JS-Loopback](screenshot.png)
+[JS-Loopback Demo](https://js-loopback.netlify.app/)
+
 ## Overview
 
 The JS-Loopback Diagnostic Console is a lightweight, in-browser debugging and testing tool designed for JavaScript applications. It is entirely self-contained within a single HTML file and uses no external CSS, making it ideal for environments with limited resources, constrained styling capabilities, or for focused, "raw" debugging sessions.
